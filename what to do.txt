@@ -1,0 +1,5 @@
+tạo câu hỏi công khai/bí mật
+xác thực 2 yếu tố
+thông báo thời gian thực
+email thông báo
+vote

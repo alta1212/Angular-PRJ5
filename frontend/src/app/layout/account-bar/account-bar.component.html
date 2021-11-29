@@ -1,0 +1,62 @@
+<!--chưa đăng nhập--->
+ <div *ngIf="!log; else ina" class="nav-right-button">
+    <a href="#" class="btn theme-btn theme-btn-outline theme-btn-outline-white mr-2" data-toggle="modal" data-target="#loginModal"><i class="la la-sign-in mr-1"></i> Login</a>
+    <a href="#" class="btn theme-btn theme-btn-white" data-toggle="modal" data-target="#signUpModal"><i class="la la-user mr-1"></i> Sign up</a>
+</div> 
+
+
+<!--đã đăng nhập--->
+<ng-template #ina class="nav-right-button">
+    <ul class="user-action-wrap d-flex align-items-center">
+        <li class="dropdown">
+            <span class="ball red ball-lg noti-dot"></span>
+            <a class="nav-link dropdown-toggle dropdown--toggle" href="#" id="notificationDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <i class="la la-bell"></i>
+            </a>
+            <div class="dropdown-menu dropdown--menu dropdown-menu-right mt-3 keep-open" aria-labelledby="notificationDropdown">
+                <h6 class="dropdown-header"><i class="la la-bell pr-1 fs-16"></i>Notifications</h6>
+                <div class="dropdown-divider border-top-gray mb-0"></div>
+                <div class="dropdown-item-list">
+                    <a *ngFor="let noti of listnoti | slice:0:3; " class="dropdown-item" href="notifications">
+                        <div class="media media-card media--card shadow-none mb-0 rounded-0 align-items-center bg-transparent">
+                            <div class="media-img media-img-sm flex-shrink-0">
+                                <img src="../../../assets/images/img3.jpg" alt="avatar">
+                            </div>
+                            <div class="media-body p-0 border-left-0">
+                                <h5 style="color: #0d233e;" class="fs-14 fw-regular">{{noti.noticatioN_DETAIL}}</h5>
+                                <small class="meta d-block lh-24">
+                                    <span>{{angularDayjsService.timeAgo(noti.time)}}</span>
+                                </small>
+                            </div>
+                        </div>
+                    </a>
+                 
+                </div>
+                <a class="dropdown-item pb-1 border-bottom-0 text-center btn-text fw-regular" href="notifications">View All Notifications <i class="la la-arrow-right icon ml-1"></i></a>
+            </div>
+        </li>
+        <li class="dropdown user-dropdown">
+            <a class="nav-link dropdown-toggle dropdown--toggle pl-2" href="#" id="userMenuDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <div class="media media-card media--card shadow-none mb-0 rounded-0 align-items-center bg-transparent">
+                    <div class="media-img media-img-xs flex-shrink-0 rounded-full mr-2">
+                        <img src="{{this.sys.BaseURI+user_image}}" alt="avatar" class="rounded-full">
+                    </div>
+                    <div class="media-body p-0 border-left-0">
+                        <h5 class="fs-14">{{user_name}}</h5>
+                    </div>
+                </div>
+            </a>
+            <div class="dropdown-menu dropdown--menu dropdown-menu-right mt-3 keep-open" aria-labelledby="userMenuDropdown">
+                <h6 class="dropdown-header">Hi, {{user_name}}</h6>
+                <div class="dropdown-divider border-top-gray mb-0"></div>
+                <div class="dropdown-item-list">
+                    <a class="dropdown-item" href="/myProfile"><i class="la la-user mr-2"></i>Profile</a>
+                    <a class="dropdown-item" href="/notifications"><i class="la la-bell mr-2"></i>Notifications</a>
+                    <a class="dropdown-item" href="/referrals.html"><i class="la la-user-plus mr-2"></i>Referrals</a>
+                    <a class="dropdown-item" href="/setting"><i class="la la-gear mr-2"></i>Settings</a>
+                    <a class="dropdown-item" style="cursor: pointer;" (click)="logout()"><i class="la la-power-off mr-2"></i>Log out</a>
+                </div>
+            </div>
+        </li>
+    </ul>
+</ng-template><!-- end nav-right-button -->

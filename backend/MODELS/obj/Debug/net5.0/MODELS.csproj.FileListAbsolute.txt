@@ -1,0 +1,36 @@
+C:\Users\tuan anh\Documents\angular Q&A\backend\MODELS\bin\Debug\net5.0\MODELS.deps.json
+C:\Users\tuan anh\Documents\angular Q&A\backend\MODELS\bin\Debug\net5.0\MODELS.dll
+C:\Users\tuan anh\Documents\angular Q&A\backend\MODELS\bin\Debug\net5.0\ref\MODELS.dll
+C:\Users\tuan anh\Documents\angular Q&A\backend\MODELS\bin\Debug\net5.0\MODELS.pdb
+C:\Users\tuan anh\Documents\angular Q&A\backend\MODELS\obj\Debug\net5.0\MODELS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuan anh\Documents\angular Q&A\backend\MODELS\obj\Debug\net5.0\MODELS.AssemblyInfoInputs.cache
+C:\Users\tuan anh\Documents\angular Q&A\backend\MODELS\obj\Debug\net5.0\MODELS.AssemblyInfo.cs
+C:\Users\tuan anh\Documents\angular Q&A\backend\MODELS\obj\Debug\net5.0\MODELS.csproj.CoreCompileInputs.cache
+C:\Users\tuan anh\Documents\angular Q&A\backend\MODELS\obj\Debug\net5.0\MODELS.dll
+C:\Users\tuan anh\Documents\angular Q&A\backend\MODELS\obj\Debug\net5.0\ref\MODELS.dll
+C:\Users\tuan anh\Documents\angular Q&A\backend\MODELS\obj\Debug\net5.0\MODELS.pdb
+C:\Users\tuan anh\Documents\angular Q&A\backend\MODELS\obj\Debug\net5.0\MODELS.csproj.AssemblyReference.cache
+C:\Users\welcome\Desktop\angular-Q-A\backend\MODELS\bin\Debug\net5.0\MODELS.deps.json
+C:\Users\welcome\Desktop\angular-Q-A\backend\MODELS\bin\Debug\net5.0\MODELS.dll
+C:\Users\welcome\Desktop\angular-Q-A\backend\MODELS\bin\Debug\net5.0\ref\MODELS.dll
+C:\Users\welcome\Desktop\angular-Q-A\backend\MODELS\bin\Debug\net5.0\MODELS.pdb
+C:\Users\welcome\Desktop\angular-Q-A\backend\MODELS\obj\Debug\net5.0\MODELS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\welcome\Desktop\angular-Q-A\backend\MODELS\obj\Debug\net5.0\MODELS.AssemblyInfoInputs.cache
+C:\Users\welcome\Desktop\angular-Q-A\backend\MODELS\obj\Debug\net5.0\MODELS.AssemblyInfo.cs
+C:\Users\welcome\Desktop\angular-Q-A\backend\MODELS\obj\Debug\net5.0\MODELS.csproj.CoreCompileInputs.cache
+C:\Users\welcome\Desktop\angular-Q-A\backend\MODELS\obj\Debug\net5.0\MODELS.dll
+C:\Users\welcome\Desktop\angular-Q-A\backend\MODELS\obj\Debug\net5.0\ref\MODELS.dll
+C:\Users\welcome\Desktop\angular-Q-A\backend\MODELS\obj\Debug\net5.0\MODELS.pdb
+C:\Users\welcome\Desktop\angular-Q-A\backend\MODELS\obj\Debug\net5.0\MODELS.csprojAssemblyReference.cache
+D:\Document\angular-Q-A\backend\MODELS\bin\Debug\net5.0\MODELS.deps.json
+D:\Document\angular-Q-A\backend\MODELS\bin\Debug\net5.0\MODELS.dll
+D:\Document\angular-Q-A\backend\MODELS\bin\Debug\net5.0\ref\MODELS.dll
+D:\Document\angular-Q-A\backend\MODELS\bin\Debug\net5.0\MODELS.pdb
+D:\Document\angular-Q-A\backend\MODELS\obj\Debug\net5.0\MODELS.csproj.AssemblyReference.cache
+D:\Document\angular-Q-A\backend\MODELS\obj\Debug\net5.0\MODELS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\angular-Q-A\backend\MODELS\obj\Debug\net5.0\MODELS.AssemblyInfoInputs.cache
+D:\Document\angular-Q-A\backend\MODELS\obj\Debug\net5.0\MODELS.AssemblyInfo.cs
+D:\Document\angular-Q-A\backend\MODELS\obj\Debug\net5.0\MODELS.csproj.CoreCompileInputs.cache
+D:\Document\angular-Q-A\backend\MODELS\obj\Debug\net5.0\MODELS.dll
+D:\Document\angular-Q-A\backend\MODELS\obj\Debug\net5.0\ref\MODELS.dll
+D:\Document\angular-Q-A\backend\MODELS\obj\Debug\net5.0\MODELS.pdb

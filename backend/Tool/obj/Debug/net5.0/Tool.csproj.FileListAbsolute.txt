@@ -1,0 +1,57 @@
+C:\Users\tuan anh\Documents\testagl\backend\Tool\bin\Debug\net5.0\Tool.deps.json
+C:\Users\tuan anh\Documents\testagl\backend\Tool\bin\Debug\net5.0\Tool.dll
+C:\Users\tuan anh\Documents\testagl\backend\Tool\bin\Debug\net5.0\ref\Tool.dll
+C:\Users\tuan anh\Documents\testagl\backend\Tool\bin\Debug\net5.0\Tool.pdb
+C:\Users\tuan anh\Documents\testagl\backend\Tool\obj\Debug\net5.0\Tool.csproj.AssemblyReference.cache
+C:\Users\tuan anh\Documents\testagl\backend\Tool\obj\Debug\net5.0\Tool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuan anh\Documents\testagl\backend\Tool\obj\Debug\net5.0\Tool.AssemblyInfoInputs.cache
+C:\Users\tuan anh\Documents\testagl\backend\Tool\obj\Debug\net5.0\Tool.AssemblyInfo.cs
+C:\Users\tuan anh\Documents\testagl\backend\Tool\obj\Debug\net5.0\Tool.csproj.CoreCompileInputs.cache
+C:\Users\tuan anh\Documents\testagl\backend\Tool\obj\Debug\net5.0\Tool.dll
+C:\Users\tuan anh\Documents\testagl\backend\Tool\obj\Debug\net5.0\ref\Tool.dll
+C:\Users\tuan anh\Documents\testagl\backend\Tool\obj\Debug\net5.0\Tool.pdb
+C:\Users\tuan anh\Documents\angular Q&A\backend\Tool\bin\Debug\net5.0\Tool.deps.json
+C:\Users\tuan anh\Documents\angular Q&A\backend\Tool\bin\Debug\net5.0\Tool.dll
+C:\Users\tuan anh\Documents\angular Q&A\backend\Tool\bin\Debug\net5.0\ref\Tool.dll
+C:\Users\tuan anh\Documents\angular Q&A\backend\Tool\bin\Debug\net5.0\Tool.pdb
+C:\Users\tuan anh\Documents\angular Q&A\backend\Tool\obj\Debug\net5.0\Tool.csproj.AssemblyReference.cache
+C:\Users\tuan anh\Documents\angular Q&A\backend\Tool\obj\Debug\net5.0\Tool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuan anh\Documents\angular Q&A\backend\Tool\obj\Debug\net5.0\Tool.AssemblyInfoInputs.cache
+C:\Users\tuan anh\Documents\angular Q&A\backend\Tool\obj\Debug\net5.0\Tool.AssemblyInfo.cs
+C:\Users\tuan anh\Documents\angular Q&A\backend\Tool\obj\Debug\net5.0\Tool.csproj.CoreCompileInputs.cache
+C:\Users\tuan anh\Documents\angular Q&A\backend\Tool\obj\Debug\net5.0\Tool.dll
+C:\Users\tuan anh\Documents\angular Q&A\backend\Tool\obj\Debug\net5.0\ref\Tool.dll
+C:\Users\tuan anh\Documents\angular Q&A\backend\Tool\obj\Debug\net5.0\Tool.pdb
+C:\Users\welcome\Desktop\angular-Q-A\backend\Tool\bin\Debug\net5.0\Tool.deps.json
+C:\Users\welcome\Desktop\angular-Q-A\backend\Tool\bin\Debug\net5.0\Tool.dll
+C:\Users\welcome\Desktop\angular-Q-A\backend\Tool\bin\Debug\net5.0\ref\Tool.dll
+C:\Users\welcome\Desktop\angular-Q-A\backend\Tool\bin\Debug\net5.0\Tool.pdb
+C:\Users\welcome\Desktop\angular-Q-A\backend\Tool\obj\Debug\net5.0\Tool.csprojAssemblyReference.cache
+C:\Users\welcome\Desktop\angular-Q-A\backend\Tool\obj\Debug\net5.0\Tool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\welcome\Desktop\angular-Q-A\backend\Tool\obj\Debug\net5.0\Tool.AssemblyInfoInputs.cache
+C:\Users\welcome\Desktop\angular-Q-A\backend\Tool\obj\Debug\net5.0\Tool.AssemblyInfo.cs
+C:\Users\welcome\Desktop\angular-Q-A\backend\Tool\obj\Debug\net5.0\Tool.csproj.CoreCompileInputs.cache
+C:\Users\welcome\Desktop\angular-Q-A\backend\Tool\obj\Debug\net5.0\Tool.dll
+C:\Users\welcome\Desktop\angular-Q-A\backend\Tool\obj\Debug\net5.0\ref\Tool.dll
+C:\Users\welcome\Desktop\angular-Q-A\backend\Tool\obj\Debug\net5.0\Tool.pdb
+C:\Users\tuan anh\Documents\angular Q&A\backend\Tool\bin\Debug\net5.0\MODELS.dll
+C:\Users\tuan anh\Documents\angular Q&A\backend\Tool\bin\Debug\net5.0\MODELS.pdb
+C:\Users\tuan anh\Documents\angular Q&A\backend\Tool\obj\Debug\net5.0\Tool.csproj.CopyComplete
+C:\Users\welcome\Desktop\angular-Q-A\backend\Tool\bin\Debug\net5.0\MODELS.dll
+C:\Users\welcome\Desktop\angular-Q-A\backend\Tool\bin\Debug\net5.0\MODELS.pdb
+C:\Users\welcome\Desktop\angular-Q-A\backend\Tool\obj\Debug\net5.0\Tool.csproj.CopyComplete
+D:\Document\angular-Q-A\backend\Tool\bin\Debug\net5.0\Tool.deps.json
+D:\Document\angular-Q-A\backend\Tool\bin\Debug\net5.0\Tool.dll
+D:\Document\angular-Q-A\backend\Tool\bin\Debug\net5.0\ref\Tool.dll
+D:\Document\angular-Q-A\backend\Tool\bin\Debug\net5.0\Tool.pdb
+D:\Document\angular-Q-A\backend\Tool\bin\Debug\net5.0\MODELS.dll
+D:\Document\angular-Q-A\backend\Tool\bin\Debug\net5.0\MODELS.pdb
+D:\Document\angular-Q-A\backend\Tool\obj\Debug\net5.0\Tool.csproj.AssemblyReference.cache
+D:\Document\angular-Q-A\backend\Tool\obj\Debug\net5.0\Tool.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\angular-Q-A\backend\Tool\obj\Debug\net5.0\Tool.AssemblyInfoInputs.cache
+D:\Document\angular-Q-A\backend\Tool\obj\Debug\net5.0\Tool.AssemblyInfo.cs
+D:\Document\angular-Q-A\backend\Tool\obj\Debug\net5.0\Tool.csproj.CoreCompileInputs.cache
+D:\Document\angular-Q-A\backend\Tool\obj\Debug\net5.0\Tool.csproj.CopyComplete
+D:\Document\angular-Q-A\backend\Tool\obj\Debug\net5.0\Tool.dll
+D:\Document\angular-Q-A\backend\Tool\obj\Debug\net5.0\ref\Tool.dll
+D:\Document\angular-Q-A\backend\Tool\obj\Debug\net5.0\Tool.pdb
