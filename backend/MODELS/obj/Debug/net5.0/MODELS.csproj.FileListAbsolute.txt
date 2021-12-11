@@ -34,3 +34,15 @@ D:\Document\angular-Q-A\backend\MODELS\obj\Debug\net5.0\MODELS.csproj.CoreCompil
 D:\Document\angular-Q-A\backend\MODELS\obj\Debug\net5.0\MODELS.dll
 D:\Document\angular-Q-A\backend\MODELS\obj\Debug\net5.0\ref\MODELS.dll
 D:\Document\angular-Q-A\backend\MODELS\obj\Debug\net5.0\MODELS.pdb
+D:\Document\Angular-PRJ5\backend\MODELS\bin\Debug\net5.0\MODELS.deps.json
+D:\Document\Angular-PRJ5\backend\MODELS\bin\Debug\net5.0\MODELS.dll
+D:\Document\Angular-PRJ5\backend\MODELS\bin\Debug\net5.0\ref\MODELS.dll
+D:\Document\Angular-PRJ5\backend\MODELS\bin\Debug\net5.0\MODELS.pdb
+D:\Document\Angular-PRJ5\backend\MODELS\obj\Debug\net5.0\MODELS.csproj.AssemblyReference.cache
+D:\Document\Angular-PRJ5\backend\MODELS\obj\Debug\net5.0\MODELS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\Angular-PRJ5\backend\MODELS\obj\Debug\net5.0\MODELS.AssemblyInfoInputs.cache
+D:\Document\Angular-PRJ5\backend\MODELS\obj\Debug\net5.0\MODELS.AssemblyInfo.cs
+D:\Document\Angular-PRJ5\backend\MODELS\obj\Debug\net5.0\MODELS.csproj.CoreCompileInputs.cache
+D:\Document\Angular-PRJ5\backend\MODELS\obj\Debug\net5.0\MODELS.dll
+D:\Document\Angular-PRJ5\backend\MODELS\obj\Debug\net5.0\ref\MODELS.dll
+D:\Document\Angular-PRJ5\backend\MODELS\obj\Debug\net5.0\MODELS.pdb

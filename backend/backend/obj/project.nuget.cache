@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NQPbrd3PZEG09m4ltlzIOCgecNseGH4WTyKJ4QDviI1+L2JL30whEi88APBKhvvCZ1bsnmbejurluhiA+VPeQA==",
+  "dgSpecHash": "F5selR/gYvaIAwbejYFmsoASqAl9FffYp/LURBdcpGcZeJsYDwFfn7zze9ZKlvPehTKxF6R55WCtZaaTKiAdvQ==",
   "success": true,
-  "projectFilePath": "D:\\Document\\angular-Q-A\\backend\\backend\\backend.csproj",
+  "projectFilePath": "D:\\Document\\Angular-PRJ5\\backend\\backend\\backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dorem\\.nuget\\packages\\googleauthenticator\\2.2.0\\googleauthenticator.2.2.0.nupkg.sha512",
     "C:\\Users\\dorem\\.nuget\\packages\\mailkit\\2.14.0\\mailkit.2.14.0.nupkg.sha512",

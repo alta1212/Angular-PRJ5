@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Document\\angular-Q-A\\backend\\DAL\\DAL.csproj": {}
+    "D:\\Document\\Angular-PRJ5\\backend\\DAL\\DAL.csproj": {}
   },
   "projects": {
-    "D:\\Document\\angular-Q-A\\backend\\DAL\\DAL.csproj": {
+    "D:\\Document\\Angular-PRJ5\\backend\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Document\\angular-Q-A\\backend\\DAL\\DAL.csproj",
+        "projectUniqueName": "D:\\Document\\Angular-PRJ5\\backend\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "D:\\Document\\angular-Q-A\\backend\\DAL\\DAL.csproj",
+        "projectPath": "D:\\Document\\Angular-PRJ5\\backend\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\dorem\\.nuget\\packages\\",
-        "outputPath": "D:\\Document\\angular-Q-A\\backend\\DAL\\obj\\",
+        "outputPath": "D:\\Document\\Angular-PRJ5\\backend\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dorem\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Document\\angular-Q-A\\backend\\MODELS\\MODELS.csproj": {
-                "projectPath": "D:\\Document\\angular-Q-A\\backend\\MODELS\\MODELS.csproj"
+              "D:\\Document\\Angular-PRJ5\\backend\\MODELS\\MODELS.csproj": {
+                "projectPath": "D:\\Document\\Angular-PRJ5\\backend\\MODELS\\MODELS.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "D:\\Document\\angular-Q-A\\backend\\MODELS\\MODELS.csproj": {
+    "D:\\Document\\Angular-PRJ5\\backend\\MODELS\\MODELS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Document\\angular-Q-A\\backend\\MODELS\\MODELS.csproj",
+        "projectUniqueName": "D:\\Document\\Angular-PRJ5\\backend\\MODELS\\MODELS.csproj",
         "projectName": "MODELS",
-        "projectPath": "D:\\Document\\angular-Q-A\\backend\\MODELS\\MODELS.csproj",
+        "projectPath": "D:\\Document\\Angular-PRJ5\\backend\\MODELS\\MODELS.csproj",
         "packagesPath": "C:\\Users\\dorem\\.nuget\\packages\\",
-        "outputPath": "D:\\Document\\angular-Q-A\\backend\\MODELS\\obj\\",
+        "outputPath": "D:\\Document\\Angular-PRJ5\\backend\\MODELS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dorem\\AppData\\Roaming\\NuGet\\NuGet.Config"

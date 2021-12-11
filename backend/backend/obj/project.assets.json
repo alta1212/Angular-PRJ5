@@ -1972,11 +1972,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Document\\angular-Q-A\\backend\\backend\\backend.csproj",
+      "projectUniqueName": "D:\\Document\\Angular-PRJ5\\backend\\backend\\backend.csproj",
       "projectName": "backend",
-      "projectPath": "D:\\Document\\angular-Q-A\\backend\\backend\\backend.csproj",
+      "projectPath": "D:\\Document\\Angular-PRJ5\\backend\\backend\\backend.csproj",
       "packagesPath": "C:\\Users\\dorem\\.nuget\\packages\\",
-      "outputPath": "D:\\Document\\angular-Q-A\\backend\\backend\\obj\\",
+      "outputPath": "D:\\Document\\Angular-PRJ5\\backend\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dorem\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1991,14 +1991,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Document\\angular-Q-A\\backend\\BUS\\BUS.csproj": {
-              "projectPath": "D:\\Document\\angular-Q-A\\backend\\BUS\\BUS.csproj"
+            "D:\\Document\\Angular-PRJ5\\backend\\BUS\\BUS.csproj": {
+              "projectPath": "D:\\Document\\Angular-PRJ5\\backend\\BUS\\BUS.csproj"
             },
-            "D:\\Document\\angular-Q-A\\backend\\MODELS\\MODELS.csproj": {
-              "projectPath": "D:\\Document\\angular-Q-A\\backend\\MODELS\\MODELS.csproj"
+            "D:\\Document\\Angular-PRJ5\\backend\\MODELS\\MODELS.csproj": {
+              "projectPath": "D:\\Document\\Angular-PRJ5\\backend\\MODELS\\MODELS.csproj"
             },
-            "D:\\Document\\angular-Q-A\\backend\\Tool\\Tool.csproj": {
-              "projectPath": "D:\\Document\\angular-Q-A\\backend\\Tool\\Tool.csproj"
+            "D:\\Document\\Angular-PRJ5\\backend\\Tool\\Tool.csproj": {
+              "projectPath": "D:\\Document\\Angular-PRJ5\\backend\\Tool\\Tool.csproj"
             }
           }
         }

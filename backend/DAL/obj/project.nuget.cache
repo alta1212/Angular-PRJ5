@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jjJzCqJax9SQtmbJiw5fd8vRhL/i11TIf6p5+vVQVfrXGvk0WVzD6LarJkfhZ5dMl6X5ya4gGqbTTeiyEm5TkA==",
+  "dgSpecHash": "Q30ohypknSPgXsZVJVIStcP5NKA+H1L/zpedOCWNovqvNxSGao25dh7bo+yDujmYb1yz+BUteo2b0lBzuO88AA==",
   "success": true,
-  "projectFilePath": "D:\\Document\\angular-Q-A\\backend\\DAL\\DAL.csproj",
+  "projectFilePath": "D:\\Document\\Angular-PRJ5\\backend\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dorem\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
     "C:\\Users\\dorem\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",

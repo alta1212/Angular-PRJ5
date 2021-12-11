@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Document\\angular-Q-A\\backend\\MODELS\\MODELS.csproj",
+      "projectUniqueName": "D:\\Document\\Angular-PRJ5\\backend\\MODELS\\MODELS.csproj",
       "projectName": "MODELS",
-      "projectPath": "D:\\Document\\angular-Q-A\\backend\\MODELS\\MODELS.csproj",
+      "projectPath": "D:\\Document\\Angular-PRJ5\\backend\\MODELS\\MODELS.csproj",
       "packagesPath": "C:\\Users\\dorem\\.nuget\\packages\\",
-      "outputPath": "D:\\Document\\angular-Q-A\\backend\\MODELS\\obj\\",
+      "outputPath": "D:\\Document\\Angular-PRJ5\\backend\\MODELS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dorem\\AppData\\Roaming\\NuGet\\NuGet.Config"
